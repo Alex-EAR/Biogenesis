@@ -1,4 +1,4 @@
-#Análisis de Datos "Expansión estratégica de laboratorios para investigación y vacunación de COVID-19"
+#**Análisis de Datos "Expansión estratégica de laboratorios para investigación y vacunación de COVID-19"**
 
 **Descripción del Proyecto 📊**
 Este proyecto tiene como objetivo analizar un conjunto de datos sintético relacionado con la incidencia del COVID-19, utilizando herramientas de análisis de datos y visualización. Se trabajó con un archivo CSV masivo, aplicando técnicas de procesamiento, análisis estadístico y visualización para extraer insights valiosos sobre la propagación de la enfermedad, la cobertura de vacunación y otros factores relevantes.
