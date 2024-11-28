@@ -1,4 +1,5 @@
 #Análisis de Datos "Expansión estratégica de laboratorios para investigación y vacunación de COVID-19"
+
 **Descripción del Proyecto 📊**
 Este proyecto tiene como objetivo analizar un conjunto de datos sintético relacionado con la incidencia del COVID-19, utilizando herramientas de análisis de datos y visualización. Se trabajó con un archivo CSV masivo, aplicando técnicas de procesamiento, análisis estadístico y visualización para extraer insights valiosos sobre la propagación de la enfermedad, la cobertura de vacunación y otros factores relevantes.
 
@@ -8,7 +9,7 @@ Análisis Estadístico y Visualización
 Análisis Exploratorio Avanzado (EDA)
 Creación de Dashboard en Power BI
 
-##**1. Preparación y Filtrado de Datos 🛠️**
+## **1. Preparación y Filtrado de Datos 🛠️**
 Archivo Utilizado:
 
 Dataset: CSV con 12,216,057 filas y 50 columnas.
@@ -29,7 +30,7 @@ Mediana, varianza, rango, entre otros.
 Resultados:
 Estas medidas ofrecen insights sobre la dispersión de los datos, proporcionando una base sólida para análisis posteriores y facilitando la toma de decisiones informadas.
 
-##**2. Análisis Estadístico y Visualización 📈**
+## **2. Análisis Estadístico y Visualización 📈**
 Bibliotecas Utilizadas:
 
 Pandas y NumPy para cálculos estadísticos.
@@ -53,7 +54,7 @@ Exploración de relaciones entre variables (por ejemplo, incidencia vs. temperat
 Resultados:
 Se identificaron patrones y tendencias a largo plazo, considerando factores geográficos y climáticos. Las visualizaciones personalizadas mejoraron la comprensión de la distribución y permitieron detectar áreas prioritarias para asignar recursos.
 
-##**3. Análisis Exploratorio Avanzado (EDA) 🔍**
+## **3. Análisis Exploratorio Avanzado (EDA) 🔍**
 Enfoque:
 Se aplicaron técnicas avanzadas para un análisis más profundo del dataset.
 
@@ -68,7 +69,7 @@ Aplicación de operaciones específicas sobre cada columna para extraer patrones
 Objetivos:
 Evaluar la efectividad de diferentes estrategias de vacunación y comprender cómo factores externos impactan en la propagación del COVID-19.
 
-##**4. Dashboard en Power BI 📊**
+## **4. Dashboard en Power BI 📊**
 Integración de Resultados:
 
 Se importó el conjunto de datos previamente analizado a Power BI.
@@ -86,5 +87,5 @@ Python: Pandas, NumPy, Matplotlib, Seaborn.
 Power BI: Creación de dashboards interactivos.
 Jupyter Notebook: Desarrollo y documentación del análisis.
 
-##**Conclusión 🎯**
+## **Conclusión 🎯**
 Este proyecto proporciona un análisis integral de los datos relacionados con el COVID-19, combinando estadísticas descriptivas, visualización y análisis exploratorio avanzado. La integración en Power BI permite a los usuarios explorar los resultados de manera interactiva, facilitando la toma de decisiones informadas sobre estrategias de control y asignación de recursos.
