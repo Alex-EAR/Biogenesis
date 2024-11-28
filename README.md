@@ -1,7 +1,9 @@
 # **Análisis de Datos "Expansión estratégica de laboratorios para investigación y vacunación de COVID-19"**
 
 **Descripción del Proyecto 📊**
-Este proyecto tiene como objetivo analizar un conjunto de datos sintético relacionado con la incidencia del COVID-19, utilizando herramientas de análisis de datos y visualización. Se trabajó con un archivo CSV masivo, aplicando técnicas de procesamiento, análisis estadístico y visualización para extraer insights valiosos sobre la propagación de la enfermedad, la cobertura de vacunación y otros factores relevantes.
+Este proyecto tiene como objetivo analizar un conjunto de datos sintético relacionado con la incidencia del COVID-19, utilizando herramientas de análisis de datos y visualización. 
+Se trabajó con un archivo CSV masivo, aplicando técnicas de procesamiento, análisis estadístico y visualización para extraer insights valiosos sobre la propagación de la enfermedad, 
+la cobertura de vacunación y otros factores relevantes.
 
 **Estructura del Proyecto 📂**
 Preparación y Filtrado de Datos
@@ -9,12 +11,13 @@ Análisis Estadístico y Visualización
 Análisis Exploratorio Avanzado (EDA)
 Creación de Dashboard en Power BI
 
-## **1. Preparación y Filtrado de Datos 🛠️**
-Archivo Utilizado:
+### **1. Preparación y Filtrado de Datos 🛠️**
+**Archivo Utilizado:**
 
 Dataset: CSV con 12,216,057 filas y 50 columnas.
 Diccionario de Datos: Archivo README complementario para comprender las columnas.
-Pasos Realizados:
+
+**Pasos Realizados:**
 
 Carga de Datos: Se utilizó un archivo Jupyter Notebook para cargar el CSV.
 Filtrado:
@@ -30,14 +33,14 @@ Mediana, varianza, rango, entre otros.
 Resultados:
 Estas medidas ofrecen insights sobre la dispersión de los datos, proporcionando una base sólida para análisis posteriores y facilitando la toma de decisiones informadas.
 
-## **2. Análisis Estadístico y Visualización 📈**
-Bibliotecas Utilizadas:
+### **2. Análisis Estadístico y Visualización 📈**
+**Bibliotecas Utilizadas:**
 
 Pandas y NumPy para cálculos estadísticos.
 Matplotlib y Seaborn para visualizaciones.
 Análisis Realizados:
 
-Medidas Estadísticas:
+**Medidas Estadísticas:**
 Tendencia central (media, mediana, moda).
 Medidas de dispersión (varianza, desviación estándar).
 Correlaciones entre variables.
@@ -46,7 +49,8 @@ Histogramas.
 Gráficos de barras.
 Mapas de calor.
 Diagramas de dispersión.
-Aspectos Analizados:
+
+**Aspectos Analizados:**
 
 Distribución de la incidencia de COVID-19.
 Tasas de vacunación.
@@ -54,11 +58,11 @@ Exploración de relaciones entre variables (por ejemplo, incidencia vs. temperat
 Resultados:
 Se identificaron patrones y tendencias a largo plazo, considerando factores geográficos y climáticos. Las visualizaciones personalizadas mejoraron la comprensión de la distribución y permitieron detectar áreas prioritarias para asignar recursos.
 
-## **3. Análisis Exploratorio Avanzado (EDA) 🔍**
-Enfoque:
+### **3. Análisis Exploratorio Avanzado (EDA) 🔍**
+**Enfoque:**
 Se aplicaron técnicas avanzadas para un análisis más profundo del dataset.
 
-Pasos Clave:
+**Pasos Clave:**
 
 Series Temporales:
 Análisis de la evolución de casos activos, recuperados, y tasas de crecimiento.
@@ -69,16 +73,16 @@ Aplicación de operaciones específicas sobre cada columna para extraer patrones
 Objetivos:
 Evaluar la efectividad de diferentes estrategias de vacunación y comprender cómo factores externos impactan en la propagación del COVID-19.
 
-## **4. Dashboard en Power BI 📊**
-Integración de Resultados:
+### **4. Dashboard en Power BI 📊**
+**Integración de Resultados:**
 
 Se importó el conjunto de datos previamente analizado a Power BI.
 Se diseñó un dashboard interactivo para visualizar:
 Incidencia de COVID-19.
 Cobertura de vacunación.
 Correlaciones entre variables clave.
-Características del Dashboard:
 
+**Características del Dashboard:**
 Visualizaciones dinámicas y personalizadas.
 Exploración interactiva para los usuarios.
 Facilita la toma de decisiones estratégicas mediante una presentación clara de los resultados.
